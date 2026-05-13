@@ -53,8 +53,8 @@
   <!-- Row Set 2 (3 projects) -->
   <tr>
     <td width="33%" valign="top">
-      <h3>Hotel Booking ML</h3>
-      <p>예약 데이터를 활용한 취소 예측 및 통계 분석 (Python/Jupyter).</p>
+      <h3>YouTube Calendar</h3>
+      <p>유튜브 영상을 일정으로 관리하는 PWA 모바일 웹 앱 (TypeScript/Supabase).</p>
     </td>
     <td width="33%" valign="top">
       <h3>PPTX-Generator</h3>
@@ -67,8 +67,8 @@
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/cactus1489/hotel_booking" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-2F6364?style=for-the-badge&logo=github&logoColor=white" alt="hotel_booking" />
+      <a href="https://github.com/cactus1489/youtube-calendar" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repo-2F6364?style=for-the-badge&logo=github&logoColor=white" alt="youtube-calendar" />
       </a>
     </td>
     <td width="33%" valign="top">
