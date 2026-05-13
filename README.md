@@ -36,17 +36,17 @@
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/cactus1489/youtube-calendar" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-87CEEB?style=for-the-badge&logo=github&logoColor=white" alt="youtube-calendar" />
+        <img src="https://img.shields.io/badge/View_Repo-2F6364?style=for-the-badge&logo=github&logoColor=white" alt="youtube-calendar" />
       </a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/cactus1489/K_dessert_trend" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-87CEEB?style=for-the-badge&logo=github&logoColor=white" alt="K_dessert_trend" />
+        <img src="https://img.shields.io/badge/View_Repo-2F6364?style=for-the-badge&logo=github&logoColor=white" alt="K_dessert_trend" />
       </a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/cactus1489/Olist" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-87CEEB?style=for-the-badge&logo=github&logoColor=white" alt="Olist" />
+        <img src="https://img.shields.io/badge/View_Repo-2F6364?style=for-the-badge&logo=github&logoColor=white" alt="Olist" />
       </a>
     </td>
   </tr>
@@ -68,17 +68,17 @@
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/cactus1489/hotel_booking" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-87CEEB?style=for-the-badge&logo=github&logoColor=white" alt="hotel_booking" />
+        <img src="https://img.shields.io/badge/View_Repo-2F6364?style=for-the-badge&logo=github&logoColor=white" alt="hotel_booking" />
       </a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/cactus1489/PPTX-Generator" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-87CEEB?style=for-the-badge&logo=github&logoColor=white" alt="PPTX-Generator" />
+        <img src="https://img.shields.io/badge/View_Repo-2F6364?style=for-the-badge&logo=github&logoColor=white" alt="PPTX-Generator" />
       </a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/cactus1489/st_naversearch" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-87CEEB?style=for-the-badge&logo=github&logoColor=white" alt="st_naversearch" />
+        <img src="https://img.shields.io/badge/View_Repo-2F6364?style=for-the-badge&logo=github&logoColor=white" alt="st_naversearch" />
       </a>
     </td>
   </tr>
@@ -88,47 +88,47 @@
 
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=cactus1489&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+  <img height="200" src="https://streak-stats.demolab.com?user=cactus1489&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
 </p>
 
 ## Tech Stack
 
 ### Backend
 <p>
-  <a><img src="https://img.shields.io/badge/Java-87CEEB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a><img src="https://img.shields.io/badge/Spring_Boot-87CEEB?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" /></a>
-  <a><img src="https://img.shields.io/badge/Spring_Batch-87CEEB?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Batch" /></a>
-  <a><img src="https://img.shields.io/badge/Spring_Data_JPA-87CEEB?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Data JPA" /></a>
-  <a><img src="https://img.shields.io/badge/Spring_Mybatis-87CEEB?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="MyBatis" /></a>
+  <a><img src="https://img.shields.io/badge/Java-2F6364?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a><img src="https://img.shields.io/badge/Spring_Boot-2F6364?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" /></a>
+  <a><img src="https://img.shields.io/badge/Spring_Batch-2F6364?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Batch" /></a>
+  <a><img src="https://img.shields.io/badge/Spring_Data_JPA-2F6364?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Data JPA" /></a>
+  <a><img src="https://img.shields.io/badge/Spring_Mybatis-2F6364?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="MyBatis" /></a>
 </p>
 
 ### Frontend
 <p>
-  <a><img src="https://img.shields.io/badge/JavaScript-87CEEB?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
-  <a><img src="https://img.shields.io/badge/TypeScript-87CEEB?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /></a>
-  <a><img src="https://img.shields.io/badge/React-87CEEB?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a><img src="https://img.shields.io/badge/React_Native-87CEEB?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
-  <a><img src="https://img.shields.io/badge/Next.js-87CEEB?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /></a>
-  <a><img src="https://img.shields.io/badge/JSP-87CEEB?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="JSP" /></a>
-  <a><img src="https://img.shields.io/badge/jQuery-87CEEB?style=for-the-badge&logo=jquery&logoColor=0769AD" alt="jQuery" /></a>
+  <a><img src="https://img.shields.io/badge/JavaScript-2F6364?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
+  <a><img src="https://img.shields.io/badge/TypeScript-2F6364?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /></a>
+  <a><img src="https://img.shields.io/badge/React-2F6364?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a><img src="https://img.shields.io/badge/React_Native-2F6364?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
+  <a><img src="https://img.shields.io/badge/Next.js-2F6364?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /></a>
+  <a><img src="https://img.shields.io/badge/JSP-2F6364?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="JSP" /></a>
+  <a><img src="https://img.shields.io/badge/jQuery-2F6364?style=for-the-badge&logo=jquery&logoColor=0769AD" alt="jQuery" /></a>
 </p>
 
 ### DB
 <p>
-  <a><img src="https://img.shields.io/badge/Oracle-87CEEB?style=for-the-badge&logo=circle&logoColor=F80000" alt="Oracle" /></a>
-  <a><img src="https://img.shields.io/badge/PostgreSQL-87CEEB?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /></a>
+  <a><img src="https://img.shields.io/badge/Oracle-2F6364?style=for-the-badge&logo=circle&logoColor=F80000" alt="Oracle" /></a>
+  <a><img src="https://img.shields.io/badge/PostgreSQL-2F6364?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /></a>
 </p>
 
 ### CI/CD / ETC
 <p>
-  <a><img src="https://img.shields.io/badge/Git-87CEEB?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /></a>
-  <a><img src="https://img.shields.io/badge/Jenkins-87CEEB?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins" /></a>
+  <a><img src="https://img.shields.io/badge/Git-2F6364?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /></a>
+  <a><img src="https://img.shields.io/badge/Jenkins-2F6364?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins" /></a>
 </p>
 
 ### AI
 <p>
-  <a><img src="https://img.shields.io/badge/Claude_Code-87CEEB?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a>
-  <a><img src="https://img.shields.io/badge/Antigravity-87CEEB?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" /></a>
+  <a><img src="https://img.shields.io/badge/Claude_Code-2F6364?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a>
+  <a><img src="https://img.shields.io/badge/Antigravity-2F6364?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" /></a>
 </p>
 
 <div align="right">
