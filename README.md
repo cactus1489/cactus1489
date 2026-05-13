@@ -12,7 +12,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yi7829@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kyi7829&style=for-the-badge&color=0ea5e9" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=cactus1489&style=for-the-badge&color=0ea5e9" alt="Profile Views"/>
 </p>
 
 ## Featured Projects
@@ -87,12 +87,12 @@
 ## Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kyi7829&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyi7829&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cactus1489&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cactus1489&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=kyi7829&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=cactus1489&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
 </p>
 
 ## Tech Stack
