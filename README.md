@@ -86,10 +86,6 @@
 
 ## Snapshot
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cactus1489&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cactus1489&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=cactus1489&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
