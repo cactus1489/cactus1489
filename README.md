@@ -19,8 +19,8 @@
   <!-- Row Set 1 (3 projects) -->
   <tr>
     <td width="33%" valign="top">
-      <h3>PASS NOTE</h3>
-      <p>전자문서/인증 기반 노트 앱</p>
+      <h3>건강BU심 웹</h3>
+      <p>건강 관리 통합 서비스</p>
     </td>
     <td width="33%" valign="top">
       <h3>Drug Safe</h3>
@@ -33,8 +33,8 @@
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://www.passnote.co.kr/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit_Service-131418?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PASS NOTE" />
+      <a href="https://www.mybusim.com/cmm/main/mainPage.do" target="_blank">
+        <img src="https://img.shields.io/badge/Visit_Service-131418?style=for-the-badge&logo=googlechrome&logoColor=white" alt="건강BU심 웹" />
       </a>
     </td>
     <td width="33%" valign="top">
@@ -133,8 +133,5 @@
 </p>
 
 <div align="right">
-  <sub>Last Updated: 2026-04-21</sub>
+  <sub>Last Updated: 2026-05-13</sub>
 </div>
-Getting DOM...Pressing key...Stopping...
-
-Stop Agent
