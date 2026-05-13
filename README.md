@@ -21,67 +21,75 @@
   <!-- Row Set 1 (3 projects) -->
   <tr>
     <td width="33%" valign="top">
-      <h3>건강BU심 웹</h3>
-      <p>건강 관리 통합 서비스</p>
+      <h3>건강BU심 웹 (PWA)</h3>
+      <p>TypeScript 기반 유튜브 일정 관리 모바일 웹 앱. Supabase 연동 및 PWA 지원.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Drug Safe</h3>
-      <p>의약품 안전관리 포털</p>
+      <h3>K-Dessert Trend</h3>
+      <p>Python/API를 활용한 두바이 초콜릿 등 최신 디저트 시장 트렌드 분석 프로젝트.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>My Healthway</h3>
-      <p>의료 마이데이터 통합 포털</p>
+      <h3>Olist Analysis</h3>
+      <p>이커머스 데이터셋 가공 및 시각화 대시보드 구축 프로젝트 (TypeScript).</p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://www.mybusim.com/cmm/main/mainPage.do" target="_blank">
-        <img src="https://img.shields.io/badge/Visit_Service-131418?style=for-the-badge&logo=googlechrome&logoColor=white" alt="건강BU심 웹" />
+      <a href="https://github.com/cactus1489/youtube-calendar" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repo-131418?style=for-the-badge&logo=github&logoColor=white" alt="youtube-calendar" />
       </a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://drugsafe.or.kr" target="_blank">
-        <img src="https://img.shields.io/badge/Visit_Service-131418?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Drug Safe" />
+      <a href="https://github.com/cactus1489/K_dessert_trend" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repo-131418?style=for-the-badge&logo=github&logoColor=white" alt="K_dessert_trend" />
       </a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://myhealthway.go.kr/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit_Service-131418?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Healthway" />
+      <a href="https://github.com/cactus1489/Olist" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repo-131418?style=for-the-badge&logo=github&logoColor=white" alt="Olist" />
       </a>
     </td>
   </tr>
-  <!-- Row Set 2 (add next projects here, keep 3 columns) -->
+  <!-- Row Set 2 (3 projects) -->
   <tr>
     <td width="33%" valign="top">
-      <h3>Hotkey+</h3>
-      <p>생산성 향상을 위한 데스크톱 핫키 유틸리티</p>
+      <h3>Hotel Booking ML</h3>
+      <p>예약 데이터를 활용한 취소 예측 및 통계 분석 (Python/Jupyter).</p>
     </td>
     <td width="33%" valign="top">
-      <h3>&nbsp;</h3>
-      <p>&nbsp;</p>
+      <h3>PPTX-Generator</h3>
+      <p>프로그래밍 방식으로 PowerPoint 파일을 생성하는 자동화 유틸리티 (JS).</p>
     </td>
     <td width="33%" valign="top">
-      <h3>&nbsp;</h3>
-      <p>&nbsp;</p>
+      <h3>Naver Search App</h3>
+      <p>Streamlit 기반 네이버 검색 API 통합 및 결과 시각화 도구.</p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/kyi7829/Hotkey/releases/tag/v1.0.0" target="_blank">
-        <img src="https://img.shields.io/badge/View_Release-131418?style=for-the-badge&logo=github&logoColor=white" alt="Hotkey+ Release" />
+      <a href="https://github.com/cactus1489/hotel_booking" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repo-131418?style=for-the-badge&logo=github&logoColor=white" alt="hotel_booking" />
       </a>
     </td>
-    <td width="33%" valign="top">&nbsp;</td>
-    <td width="33%" valign="top">&nbsp;</td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/cactus1489/PPTX-Generator" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repo-131418?style=for-the-badge&logo=github&logoColor=white" alt="PPTX-Generator" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/cactus1489/st_naversearch" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repo-131418?style=for-the-badge&logo=github&logoColor=white" alt="st_naversearch" />
+      </a>
+    </td>
   </tr>
 </table>
 
 ## Snapshot
 
-<!-- <p align="center">
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kyi7829&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyi7829&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p> -->
+</p>
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=kyi7829&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
