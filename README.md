@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Park%20In%20Seon&fontAlign=50&fontAlignY=40&color=0:0F2027,50:203A43,100:2C5364&fontColor=F8FAFC&fontSize=52&desc=FullStack%20Developer%20%7C%20Problem%20Solver&descAlignY=62&animation=twinkling" />
+  <a href="https://www.linkedin.com/in/%EC%9D%B8%EC%84%A0-%EB%B0%95-799813261/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Park%20In%20Seon&fontAlign=50&fontAlignY=40&color=0:0F2027,50:203A43,100:2C5364&fontColor=F8FAFC&fontSize=52&desc=FullStack%20Developer%20%7C%20Problem%20Solver&descAlignY=62&animation=twinkling" />
+  </a>
 </p>
 
 <p align="center">
