@@ -38,6 +38,9 @@
       <a href="https://github.com/cactus1489/youtube-calendar" target="_blank">
         <img src="https://img.shields.io/badge/View_Repo-2F6364?style=for-the-badge&logo=github&logoColor=white" alt="youtube-calendar" />
       </a>
+      <a href="https://youtube-calendar.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/View_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Demo" />
+      </a>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/cactus1489/K_dessert_trend" target="_blank">
@@ -69,6 +72,9 @@
     <td width="33%" valign="top">
       <a href="https://github.com/cactus1489/youtube-calendar" target="_blank">
         <img src="https://img.shields.io/badge/View_Repo-2F6364?style=for-the-badge&logo=github&logoColor=white" alt="youtube-calendar" />
+      </a>
+      <a href="https://youtube-calendar.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/View_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Demo" />
       </a>
     </td>
     <td width="33%" valign="top">
