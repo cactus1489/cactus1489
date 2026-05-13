@@ -100,7 +100,6 @@
   <img src="https://img.shields.io/badge/Spring_Batch-131418?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Batch" />
   <img src="https://img.shields.io/badge/Spring_Data_JPA-131418?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Data JPA" />
   <img src="https://img.shields.io/badge/Spring_Mybatis-131418?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="MyBatis" />
-  <img src="https://img.shields.io/badge/Redis-131418?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
 </p>
 
 ### Frontend
@@ -110,7 +109,6 @@
   <img src="https://img.shields.io/badge/React-131418?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-131418?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Next.js-131418?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-131418?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" />
   <img src="https://img.shields.io/badge/JSP-131418?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="JSP" />
   <img src="https://img.shields.io/badge/jQuery-131418?style=for-the-badge&logo=jquery&logoColor=0769AD" alt="jQuery" />
 </p>
@@ -118,7 +116,6 @@
 ### DB
 <p>
   <img src="https://img.shields.io/badge/Oracle-131418?style=for-the-badge&logo=circle&logoColor=F80000" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Tibero-131418?style=for-the-badge&logo=orange&logoColor=white" alt="Tibero" />
   <img src="https://img.shields.io/badge/PostgreSQL-131418?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 </p>
 
@@ -126,16 +123,12 @@
 <p>
   <img src="https://img.shields.io/badge/Git-131418?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/Jenkins-131418?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Docker-131418?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-131418?style=for-the-badge&logo=cloudflare&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/n8n-131418?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
 </p>
 
 ### AI
 <p>
-  <img src="https://img.shields.io/badge/Codex-131418?style=for-the-badge&logo=openaigym&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/Claude_Code-131418?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Cursor-131418?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Antigravity-131418?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
 </p>
 
 <div align="right">
