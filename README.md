@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yi7829@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dlstjs6798@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=cactus1489&style=for-the-badge&color=0ea5e9" alt="Profile Views"/>
